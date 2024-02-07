@@ -1,0 +1,5 @@
+Q-1: Write query to return the email, first name, last name, and genere of all Rock Music listerners. Rerurn your list ordered alphabetically by email satarting with A.
+
+Q-2: Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the artist's name and total track count of the top 10 rock bands.
+
+Q-3: Return all the track names that have a song length longer than the avetage song length. Return the name and milliseconds for each track. Order by the song length with sthe longest songs listed first
